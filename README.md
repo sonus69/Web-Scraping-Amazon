@@ -1,2 +1,2 @@
 # Web-Scraping-Amazon
-Source code about scraping website using python package in amazon website
+Detailed information about how to web scrapin in online shop website which is in this repository is an Amazon website
